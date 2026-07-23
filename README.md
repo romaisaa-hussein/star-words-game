@@ -18,7 +18,7 @@
 
 ## Demo
 
-[![Watch the demo](https://drive.google.com/file/d/1GUrS3eoqiYKC8oNiY09yZbpeBXGMwGdr/view?usp=drive_link)
+[![Watch the demo](https://drive.google.com/file/d/1GUrS3eoqiYKC8oNiY09yZbpeBXGMwGdr/view?usp=sharing)
 
 ---
 
