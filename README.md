@@ -9,10 +9,10 @@
 ## Screenshots
 
 ![Gameplay](media/screenshots/gameplay.png)
-*Collect 10 nouns — but stay away from other word classes!*
+*Collect 10 nouns - but stay away from other word classes!*
 
 ![Level Complete](media/screenshots/level_complete.png)
-*Level complete — press Space to advance!*
+*Level complete - press Space to advance!*
 
 ---
 
